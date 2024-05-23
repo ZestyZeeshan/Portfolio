@@ -38,6 +38,7 @@ function App() {
           <HeroSection />
           <Wrapper>
             <Skills />
+            {/* <Contact/> */}
             {/* <Experience /> */}
           </Wrapper>
           <Projects openModal={openModal} setOpenModal={setOpenModal} />

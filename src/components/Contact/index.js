@@ -47,6 +47,9 @@ const Desc = styled.div`
   text-align: center;
   max-width: 600px;
   color: ${({ theme }) => theme.text_secondary};
+  display: flex;
+  justify-content: center;
+  gap: 50px;
   @media (max-width: 768px) {
     margin-top: 12px;
     font-size: 16px;
@@ -140,6 +143,14 @@ const Contact = () => {
     <Container>
       <Wrapper>
         <Title>Contact</Title>
+        
+        <Desc>
+          <span>+91-7291080981</span>
+          <span>mohdzeeshanmohammad@gmail.com</span>
+        </Desc>
+        
+       
+        
         <Desc>Feel free to reach out to me for any questions or opportunities!</Desc>
         <ContactForm ref={form} onSubmit={handleSubmit}>
           <ContactTitle>Email Me 🚀</ContactTitle>
