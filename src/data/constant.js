@@ -405,7 +405,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/ZestyZeeshan/Zest-Fashion/tree/main",
-      webapp: "https://vexa-app.netlify.app/",
+      webapp: "https://zesty-zeeshan-portfolio.netlify.app/",
     },
     {
       id: 2,
@@ -414,12 +414,12 @@ export const Bio = {
       description:
         "A responsive portfolio to showcase myself, including all my projects, education details, and resume. It's a one-stop platform for an initial representation of my skills and accomplishments.",
       image:
-        "https://github.com/ZestyZeeshan/Portfolio/assets/141507225/11abe906-cad3-4830-a9f1-435edf151c3e",
+        "https://private-user-images.githubusercontent.com/141507225/333192054-b0e52d7b-5069-4de6-995c-504c93391df5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY0Njk5MDQsIm5iZiI6MTcxNjQ2OTYwNCwicGF0aCI6Ii8xNDE1MDcyMjUvMzMzMTkyMDU0LWIwZTUyZDdiLTUwNjktNGRlNi05OTVjLTUwNGM5MzM5MWRmNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyM1QxMzA2NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZDg0YzVhZTU0NzkxMzQzNzBjNmExZDEzNTY1MWQxMGMxMWUwMTJhNDc1YmJmODE5MGIwYjhkNjJhMzYwY2QyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.iUIQdY62A1qEBwBny-MKxVC0Al8_U62kMjJNJpMuDKg",
       tags: ["React Js", "Redux", "Dynamic Data", "MATERIAL UI", ],
       category: "web app",
       //"machine learning",
       github: "https://github.com/ZestyZeeshan/Portfolio/tree/main",
-      webapp: "https://brain-tumor.netlify.app/",
+      webapp: "https://zesty-zeeshan-portfolio.netlify.app/",
       // member: [
       //   {
       //     name: "Rishav Chanda",
@@ -459,7 +459,7 @@ export const Bio = {
       tags: ["Machine Learning", "Supervised Learning", "Flask","Python"],
       category: "machine learning",
       github: "https://github.com/ZestyZeeshan/Book-Recommend/tree/main",
-      webapp: "https://github.com/rishavchanda/Job-finder-App",
+      webapp: "https://zesty-zeeshan-portfolio.netlify.app/",
     },
     // {
     //   id: 4,
