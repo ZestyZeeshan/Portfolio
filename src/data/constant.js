@@ -414,12 +414,12 @@ export const Bio = {
       description:
         "A responsive portfolio to showcase myself, including all my projects, education details, and resume. It's a one-stop platform for an initial representation of my skills and accomplishments.",
       image:
-        "https://private-user-images.githubusercontent.com/141507225/333192054-b0e52d7b-5069-4de6-995c-504c93391df5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY0OTY0MjksIm5iZiI6MTcxNjQ5NjEyOSwicGF0aCI6Ii8xNDE1MDcyMjUvMzMzMTkyMDU0LWIwZTUyZDdiLTUwNjktNGRlNi05OTVjLTUwNGM5MzM5MWRmNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyM1QyMDI4NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYTAxMzI5YTkxYzg1NzllZDQ0MDBkYzFmMjQ2NWM2NzEyZTdjYTMyNWIyMDU5NGYxMzhhMmI5MTgyZjYwNzg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZA5bRV3oLnB7qUmuQjk50AlFoUJUqEWAxtd5MLoMQgk",
+        "https://private-user-images.githubusercontent.com/141507225/333192054-b0e52d7b-5069-4de6-995c-504c93391df5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY1NzQ0MTksIm5iZiI6MTcxNjU3NDExOSwicGF0aCI6Ii8xNDE1MDcyMjUvMzMzMTkyMDU0LWIwZTUyZDdiLTUwNjktNGRlNi05OTVjLTUwNGM5MzM5MWRmNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyNFQxODA4MzlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wMzhiODZjYzVkNDgwMWViMmRkNTQxNDFiZDc1ZjE4MDUwNmJkYzUxYjIzNGYzZjIyMjJkNDQyMTBmZmI4OTdiJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.CbFwF2CTe2wEuqH2i-jk6WjzKqW-8sU-yZyeEMDqD2Y",
       tags: ["React Js", "Redux", "Dynamic Data", "MATERIAL UI", ],
       category: "web app",
       //"machine learning",
       github: "https://github.com/ZestyZeeshan/Portfolio/tree/main",
-      webapp: "https://zesty-zeeshan-portfolio.netlify.app/",
+      webapp: "https://portfolio-ruby-alpha-86.vercel.app/",
       // member: [
       //   {
       //     name: "Rishav Chanda",
