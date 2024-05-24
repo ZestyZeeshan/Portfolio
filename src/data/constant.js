@@ -2,7 +2,7 @@ export const Bio = {
     name: "Mohammad Zeeshan",
     roles: [
       "Frontend Developer",
-      "Aspiring Data Science Engineer",
+      "Data Science Enthusiast",
      
       "Programmer",
     ],
@@ -350,7 +350,7 @@ export const Bio = {
       tags: ["React Js", "Tailwind CSS", "Swiggy API", "Redux","Redux Toolkit" ],
       category: "web app",
       github: "https://github.com/ZestyZeeshan/ZestyFoodApp/tree/main",
-      webapp: "https://chatbotmentalhealth-azwzceqxqujarx4n4ataro.streamlit.app/",
+      webapp: "https://zestyfood.netlify.app/",
       
     },
     {
@@ -371,7 +371,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/ZestyZeeshan/TherapEase",
-      webapp: "https://chatbotmentalhealth-azwzceqxqujarx4n4ataro.streamlit.app/",
+      webapp: "https://therapease-mentalhealth.netlify.app/",
       member: [
         {
           name: "Mohammad Zeeshan",
@@ -405,7 +405,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/ZestyZeeshan/Zest-Fashion/tree/main",
-      webapp: "https://zesty-zeeshan-portfolio.netlify.app/",
+      webapp: "https://drive.google.com/file/d/152bPLa5Y3QQLLszohQ0AmTcen46yJLVV/view?usp=sharing",
     },
     {
       id: 2,
@@ -414,7 +414,7 @@ export const Bio = {
       description:
         "A responsive portfolio to showcase myself, including all my projects, education details, and resume. It's a one-stop platform for an initial representation of my skills and accomplishments.",
       image:
-        "https://private-user-images.githubusercontent.com/141507225/333192054-b0e52d7b-5069-4de6-995c-504c93391df5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY0Njk5MDQsIm5iZiI6MTcxNjQ2OTYwNCwicGF0aCI6Ii8xNDE1MDcyMjUvMzMzMTkyMDU0LWIwZTUyZDdiLTUwNjktNGRlNi05OTVjLTUwNGM5MzM5MWRmNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyM1QxMzA2NDRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZDg0YzVhZTU0NzkxMzQzNzBjNmExZDEzNTY1MWQxMGMxMWUwMTJhNDc1YmJmODE5MGIwYjhkNjJhMzYwY2QyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.iUIQdY62A1qEBwBny-MKxVC0Al8_U62kMjJNJpMuDKg",
+        "https://private-user-images.githubusercontent.com/141507225/333192054-b0e52d7b-5069-4de6-995c-504c93391df5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTY0OTY0MjksIm5iZiI6MTcxNjQ5NjEyOSwicGF0aCI6Ii8xNDE1MDcyMjUvMzMzMTkyMDU0LWIwZTUyZDdiLTUwNjktNGRlNi05OTVjLTUwNGM5MzM5MWRmNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwNTIzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDUyM1QyMDI4NDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jYTAxMzI5YTkxYzg1NzllZDQ0MDBkYzFmMjQ2NWM2NzEyZTdjYTMyNWIyMDU5NGYxMzhhMmI5MTgyZjYwNzg3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.ZA5bRV3oLnB7qUmuQjk50AlFoUJUqEWAxtd5MLoMQgk",
       tags: ["React Js", "Redux", "Dynamic Data", "MATERIAL UI", ],
       category: "web app",
       //"machine learning",
@@ -459,7 +459,7 @@ export const Bio = {
       tags: ["Machine Learning", "Supervised Learning", "Flask","Python"],
       category: "machine learning",
       github: "https://github.com/ZestyZeeshan/Book-Recommend/tree/main",
-      webapp: "https://zesty-zeeshan-portfolio.netlify.app/",
+      webapp: "https://drive.google.com/file/d/1fAVW66MZPdxIaOcdk4IJR1g86ujh8Yj9/view?usp=sharing",
     },
     // {
     //   id: 4,
