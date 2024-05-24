@@ -10,7 +10,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/ZestyZeeshan",
     resume:
-      "https://drive.google.com/file/d/17b-AGTYN2QQjg2ScFL3duF7UEdBp_tF8/view?usp=sharing",
+      "https://drive.google.com/file/d/15Qqj_Vt8M5E9V6jpODJ-N21sRI0-Yn3v/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/mohammadzeeshan19",
     twitter: "https://x.com/Zesty_Zeeshan19?t=72Jg6G0apB1bkv1gS1EeOw&s=09",
     insta: "https://www.linkedin.com/in/mohammadzeeshan19",
