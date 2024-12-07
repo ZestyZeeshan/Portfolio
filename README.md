@@ -1,8 +1,9 @@
-#this is how my portfolio looks like 
-![image](https://github.com/ZestyZeeshan/Portfolio/assets/141507225/b0e52d7b-5069-4de6-995c-504c93391df5)
+#This is how my portfolio looks like 
+![image](https://github.com/user-attachments/assets/99744681-9fdb-450a-a2b7-c16e3bdb470d)
+
 
 #please visit once , your feedback will be appreciated
-https://zesty-zeeshan-portfolio.netlify.app/
+https://portfolio-ruby-alpha-86.vercel.app/
 
 
 
