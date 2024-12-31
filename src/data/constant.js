@@ -356,7 +356,7 @@ export const Bio = {
       description:
         "TherapEase is a comprehensive web application for mental health, providing information on issues like depression and anxiety that are often not openly discussed in society. It features a 24/7 free mental health chatbot for interactive support and offers a classification system for initial alerts about mental health conditions. Additionally, TherapEase includes resources and tools to help users understand and manage their mental health better.",
       image:
-        "https://github.com/ZestyZeeshan/TherapEase/assets/141507225/62ad7d65-31cf-425f-a3e6-870b1dd65943",
+        "https://github.com/user-attachments/assets/3f9eb8c8-be5b-4efe-9db9-590b9ab7ee52",
       tags: [
         
         "React Js",
@@ -367,7 +367,7 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/ZestyZeeshan/TherapEase",
-      webapp: "https://therapease-mentalhealth.netlify.app/",
+      webapp: "https://therap-ease-six.vercel.app/",
       member: [
         {
           name: "Mohammad Zeeshan",
@@ -438,11 +438,11 @@ export const Bio = {
       description:
         "A mental health chatbot that utilizes a dataset of conversations between users and mental health consultants. The chatbot encodes and decodes these conversations for storage in a database. Using a similarity index, it retrieves answers from this dataset. If a question is not found in the database, it retrieves the response from the Gemini API.",
       image:
-        "https://github.com/user-attachments/assets/9edb279e-f717-499e-8d07-d725c955cd2c",
+        "https://github.com/user-attachments/assets/66482da4-aeba-48ce-88c4-e058f9a3f7a0",
       tags: ["Streamlit", "Gemini API","Encoding-Decoding", "Generative Ai", "CSV Dataset","Kaggle"],
       category: "machine learning",
-      github: "https://github.com/ZestyZeeshan/ChatBot_MentalHealth",
-      webapp: "https://chatbotmentalhealth-azwzceqxqujarx4n4ataro.streamlit.app/",
+      github: "https://github.com/ZestyZeeshan/Chatbot_TherapEase",
+      webapp: "https://chatbot-therapease.streamlit.app/",
     },
     {
       id: 10,
